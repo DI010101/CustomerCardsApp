@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Kundenkarten</string>
+    <string name="add_card">Karte hinzufügen</string>
+    <string name="scan_code">Code scannen</string>
+    <string name="card_name">Kartenname</string>
+    <string name="card_code">Kartennummer / Code</string>
+    <string name="save_card">Karte speichern</string>
+    <string name="delete_card">Karte löschen</string>
+    <string name="barcode">Barcode</string>
+    <string name="qr_code">QR-Code</string>
+    <string name="my_cards">Meine Karten</string>
+</resources>
